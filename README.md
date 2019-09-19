@@ -1,2 +1,2 @@
-# autoupdater
-Taxworks Auto Updating
+# Taxworks autoupdater
+Helps you to upgrade Taxworks
